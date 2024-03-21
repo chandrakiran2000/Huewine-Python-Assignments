@@ -1,0 +1,29 @@
+1. In a town, the percentage of men is 52. The percentage of total literacy is 48. If total percentage of literate men is 35 of the total population, write a program to find the total number of illiterate men and women if the population of the town is 80,000.
+
+2.A cashier has currency notes of denominations 10, 50 and 100. If the amount to be withdrawn is input through the keyboard in hundreds, find the total number of currency notes of each denomination the cashier will have to give to the withdrawer
+
+3.While purchasing certain items, a discount of 10% is offered if the quantity purchased is more than 10. If quantity and price per item are input through the keyboard, write a program to calculate the total expenses.
+
+4.If his basic salary is less than Rs. 1500, then HRA = 10% of basic salary and DA = 90% of basic salary. If his salary is either equal to or above Rs. 1500, then HRA = Rs. 500 and DA = 98% of basic salary. If the employee's salary is input through the keyboard write a program to find his gross salary
+
+5. If the ages of Ram, Shyam and Ajay are input through the keyboard, write a program to determine the youngest of the three.
+
+6.Any year is entered through the keyboard, write a program to determine whether the year is leap or not. Use the logical operators && and ||.
+
+7.A library charges a fine for every book returned late. For first 5 days the fine is 50 paise, for 6-10 days fine is one rupee and above 10 days fine is 5 rupees. If you return the book after 30 days your membership will be cancelled. Write a program to accept the number of days the member is late to return the book and display the fine or the appropriate message.
+
+8.In a company, worker efficiency is determined on the basis of the time required for a worker to complete a particular job. If the time taken by the worker is between 2 – 3 hours, then the worker is said to be highly efficient. If the time required by the worker is between 3 – 4 hours, then the worker is ordered to improve speed. If the time taken is between 4 – 5 hours, the worker is given training to improve his speed, and if the time taken by the worker is more than 5 hours, then the worker has to leave the company. If the time taken by the worker is input through the keyboard, find the efficiency of the worker.
+
+9.. Write a program to print the Armstrong numbers between 100 to 999.
+
+10.Write a program to find the reverse of n digit number using While loop
+
+11. Write a Python program to check a list is empty or not
+
+12.Write a program to find the Fibonacci Series of the given number.
+
+13.Write a program to find the given number is perfect number
+
+14. Write a program to check whether a triangle is valid or not, when the three angles of the triangle are entered through the keyboard. A triangle is valid if the sum of all the three angles is equal to 180 degrees.
+
+15.A five-digit number is entered through the keyboard. Write a program to obtain the reversed number and to determine whether the original and reversed numbers are equal or not.
