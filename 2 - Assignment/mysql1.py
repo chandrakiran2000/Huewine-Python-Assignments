@@ -1,6 +1,6 @@
 import mysql.connector
 
-con = mysql.connector.connect(host="localhost", username="root", password="chandrakiran", database="demo")
+con = mysql.connector.connect(host="localhost", username="root", password="chandrakiran30@", database="demo")
 
 #con=mysql.connector.connect(host="localhost",user="root",password="rajagr98@",database="python_db")
 
