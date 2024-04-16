@@ -1,6 +1,6 @@
 import mysql.connector
 
-con = mysql.connector.connect(host="localhost", username="root", password="Ackiran1999@", database="demo")
+con = mysql.connector.connect(host="localhost", username="root", password="chandrakiran", database="demo")
 """
 res=con.cursor()
 sql="select * from users"
