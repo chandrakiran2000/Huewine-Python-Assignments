@@ -1,20 +1,6 @@
 import mysql.connector
 
 con = mysql.connector.connect(host="localhost", username="root", password="chandrakiran", database="demo")
-"""
-res=con.cursor()
-sql="select * from users"
-res.execute(sql)
-result=res.fetchall()
-print(result)
-#print(tabulate(result,headers=["ID","NAME","AGE","CITY"]))
-#con.commit()
-#con.close()
-
-print("success")
-"""
-
-
 
 #con=mysql.connector.connect(host="localhost",user="root",password="rajagr98@",database="python_db")
 
